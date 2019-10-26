@@ -39,4 +39,4 @@ end
 
 def play(board)
   # start a loop and call #turn
-end  
+end
